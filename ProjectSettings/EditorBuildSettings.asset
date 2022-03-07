@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scene/TicTacToe.unity
+    path: Assets/_Scene/TicTacToe.unity
     guid: 59b1e6825b19cf64bbcabe2cb73db7cd
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 1d09b57dd851dc54fbb91caf33cc0c98,
